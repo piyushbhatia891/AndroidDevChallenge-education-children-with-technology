@@ -1,0 +1,36 @@
+
+				Cover Letter
+Tell us what your idea is. 
+
+The service is for the users/students with which they can learn at home. Objective is to create study related content from the data being uploaded by tutors or professors in the form of video lecture ,notes or a podcast with the help of ML ,CV,NLP.
+
+
+
+Tell us how you plan on bringing it to life. 
+
+Project is in development stages and we can leverage google's help in following points
+
+1.Google's firebase storage and database and analysis techniques
+2.Would like to grow more on how we can make the system scalable so that it reaches vast audience.
+3.We have planned our work in different phases from requirement gathering to dev to testing and is intented to 
+complete well before May 1
+
+points how to use ML model
+1.We are developing ML and NLP models for the time being which will be used later with the front end of 
+our web and mobile app.
+2.We are developing web and mobile app for this service where we are using google's flutter and angular language in front end.
+3.In back end layer we have segregated out different micro services being deployed on different instances has been getting written in different programming languages like java,Python
+
+
+
+
+
+Tell us about you. 
+ We are having team of three persons who always thrive to create different digital product on different problems and intending to solve those with the technology
+Side Products we are working on are follows
+1.Creating retail platform for retailers where goods can be sold via B2B and B2C.
+2.Creating small android apps for educating students on such points which are not stressed in the school
+
+
+
+
